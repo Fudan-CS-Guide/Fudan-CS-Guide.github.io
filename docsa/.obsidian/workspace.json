@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "c169c9320e00b35c",
+    "type": "split",
+    "children": [
+      {
+        "id": "67db9c29f83a1573",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b52095d0e3b2c62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实用工具推荐/ChatGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3a731067e972d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "1183a956946fac9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f80436eaecca75ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c0b131d62ec100f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "475a0607e675d460",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0945e9a4195f104",
+    "type": "split",
+    "children": [
+      {
+        "id": "43dee2815af3f1a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d2568d7db9c5ec5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "实用工具推荐/ChatGPT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4c4f7746573b241",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "实用工具推荐/ChatGPT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5637e8896f9d3f49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88bb19eb28a5ded5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "实用工具推荐/ChatGPT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b52095d0e3b2c62c",
+  "lastOpenFiles": [
+    "images/Pasted image 20240924132459.png",
+    "images/20240924131930.png",
+    "images/20240924130606.png",
+    "实用工具推荐/ChatGPT.md",
+    "images/Pasted.md",
+    "images/logo.jpg",
+    "images/Pasted image 20240924130701.png",
+    "images/Pasted image 20240924130620.png",
+    "about.md",
+    "课程学习指南/专业培养课程/专业核心教育课程/面向对象程序设计.md",
+    "课程学习指南/专业培养课程/专业核心教育课程/面向对象程序设计",
+    "课程学习指南/专业培养课程/大类基础课程/基础物理实验.md",
+    "课程学习指南/专业培养课程/大类基础课程/线性代数.md",
+    "课程学习指南/专业培养课程/大类基础课程/大学物理B(下).md",
+    "课程学习指南/专业培养课程/大类基础课程/大学物理B(下)",
+    "课程学习指南/专业培养课程/大类基础课程/大学物理B(上).md",
+    "课程学习指南/专业培养课程/大类基础课程/程序设计.md",
+    "课程学习指南/专业培养课程/大类基础课程/高等数学A(下).md",
+    "课程学习指南/专业培养课程/大类基础课程/高等数学A(上).md",
+    "课程学习指南/专业培养课程/大类基础课程/高等数学上.md",
+    "课程学习指南/通识教育课程/专项教育课程/创新创意创业/主页.md",
+    "课程学习指南/通识教育课程/专项教育课程/大学外语/主页.md",
+    "课程学习指南/通识教育课程/专项教育课程/军事理论/主页.md",
+    "课程学习指南/通识教育课程/专项教育课程/水平测试/主页.md",
+    "课程学习指南/通识教育课程/专项教育课程/体育/主页.md",
+    "课程学习指南/通识教育课程/专项教育课程/创新创意创业",
+    "课程学习指南/通识教育课程/专项教育课程/体育",
+    "课程学习指南/通识教育课程/专项教育课程/军事理论",
+    "课程学习指南/通识教育课程/专项教育课程/大学外语",
+    "课程学习指南/通识教育课程/专项教育课程/专项外语",
+    "课程学习指南/通识教育课程/专项教育课程/水平测试",
+    "课程学习指南/通识教育课程/核心课程/思想政治理论/主页.md",
+    "课程学习指南/通识教育课程/核心课程/思想政治理论",
+    "课程学习指南/通识教育课程/核心课程/七模/主页.md",
+    "课程学习指南/通识教育课程/核心课程/七模",
+    "课程学习指南/通识教育课程/七模/主页.md",
+    "课程学习指南/通识教育课程/思想政治理论/主页.md",
+    "课程学习指南/多元发展路径课程/主页.md",
+    "课程学习指南/多元发展路径课程/专业进阶路径/主页.md",
+    "课程学习指南/专业培养课程/主页.md",
+    "课程学习指南/多元发展路径课程/跨学科发展路径/主页.md"
+  ]
+}

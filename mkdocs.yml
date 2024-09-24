@@ -1,0 +1,79 @@
+site_name: Fudan-CS-Guide
+
+nav:
+  - index.md
+  - about.md
+  - 实用工具推荐:
+    - 实用工具推荐/ChatGPT.md
+    - 实用工具推荐/Vscode.md
+    - 实用工具推荐/Notion.md
+    - 实用工具推荐/Obsidian.md
+  - 课程学习指南:
+    - 通识教育课程:
+      - 思想政治理论:
+        - 课程学习指南/通识教育课程/核心课程/思想政治理论/主页.md
+      - 七模:
+        - 课程学习指南/通识教育课程/核心课程/七模/主页.md
+      - 大学外语:
+        - 课程学习指南/通识教育课程/专项教育课程/大学外语/主页.md
+      - 水平测试:
+        - 课程学习指南/通识教育课程/专项教育课程/水平测试/主页.md
+      - 军事理论:
+        - 课程学习指南/通识教育课程/专项教育课程/军事理论/主页.md
+      - 体育:
+        - 课程学习指南/通识教育课程/专项教育课程/体育/主页.md
+      - 创新创意创业:
+        - 课程学习指南/通识教育课程/专项教育课程/创新创意创业/主页.md
+    - 专业培养课程:
+      - 大类基础课程:
+        - 课程学习指南/专业培养课程/大类基础课程/程序设计.md
+        - 课程学习指南/专业培养课程/大类基础课程/高等数学A(上).md
+        - 课程学习指南/专业培养课程/大类基础课程/高等数学A(下).md
+        - 课程学习指南/专业培养课程/大类基础课程/线性代数.md
+        - 课程学习指南/专业培养课程/大类基础课程/大学物理B(上).md
+        - 课程学习指南/专业培养课程/大类基础课程/大学物理B(下).md
+        - 课程学习指南/专业培养课程/大类基础课程/基础物理实验.md
+      - 专业核心教育课程:
+        - 课程学习指南/专业培养课程/专业核心教育课程/面向对象程序设计.md
+    - 多元发展路径课程:
+      - 课程学习指南/多元发展路径课程/主页.md
+      - 专业进阶路径:
+        - 课程学习指南/多元发展路径课程/专业进阶路径/主页.md
+      - 荣誉项目路径:
+        - 课程学习指南/多元发展路径课程/荣誉项目路径/主页.md
+      - 跨学科发展路径:
+        - 课程学习指南/多元发展路径课程/跨学科发展路径/主页.md
+
+theme:
+  name: "material"
+  palette:
+      primary: "blue"
+      accent: "deep orange"
+  language: "zh"
+  custom_dir: overrides
+
+# 设置字体
+extra_css:
+  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css
+  - css/custom.css
+
+markdown_extensions:
+  - abbr
+  - pymdownx.snippets
+  - admonition
+  - codehilite
+  - footnotes
+  - def_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  # 提示、警告栏
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
