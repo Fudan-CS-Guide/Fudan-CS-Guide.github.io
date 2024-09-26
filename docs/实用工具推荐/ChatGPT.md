@@ -24,18 +24,19 @@
 
 - [kimi](https://kimi.moonshot.cn/): 可以上传文件用来读论文，且kimi支持联网搜索；
 - [文心一言](https://yiyan.baidu.com/welcome): 百度做的产品，算是国内第一梯队了；
-- [通义千问]([通义tongyi.ai_你的全能AI助手-通义千问 (aliyun.com)](https://tongyi.aliyun.com/)): 除了对话以外还集成了比如会议记录、PPT制作等功能；
+- [通义千问](https://tongyi.aliyun.com/): 除了对话以外还集成了比如会议记录、PPT制作等功能；
 
-### 国外厂商
+### 国外三巨头
 
 > (需要梯子)，使用Google账号即可登录
 
 - [ChatGPT](https://chat.openai.com)：OpenAI公司的产品，新一轮人工智能浪潮的导火索和领导者；
-- [Gemini]([Gemini (google.com)](https://gemini.google.com/app))：Google家的“ChatGPT”
+- [Gemini](https://gemini.google.com/app)：Google家的“ChatGPT”
+- [Claude](https://www.anthropic.com/claude)：Claude会屏蔽掉国内ip，所以可能会无法使用
 
 此外做的不错的模型还有很多，包括通用和一些垂直领域，不少模型在细分领域拥有更加不错的表现，大家也可以将ChatGPT作为熟悉这类工具的一个跳板。
 
 ## 3. 总结
 
-ChatGPT可以在很大程度上提高大家完成各种任务的效率，但是也要合理使用AI而不是将自己的学业完全依赖于它。在某种意义上，ChatGPT时代的程序员门槛反而提高了，毕竟对于重复性的编码劳动，人永远也比不过机器，如何确立自身相对于机器的优势，是一个永恒的话题。
+ChatGPT可以在很大程度上提高大家完成各种任务的效率，但是也要合理使用AI而不是将自己的学业完全依赖于它。在某种意义上，ChatGPT时代的程序员门槛反而提高了，毕竟对于重复性的编码劳动，人永远也比不过机器，如何确立自身相对于机器的优势，是一个非常重要的问题。
 
