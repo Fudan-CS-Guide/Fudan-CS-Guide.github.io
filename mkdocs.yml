@@ -4,6 +4,7 @@ nav:
   - index.md
   - about.md
   - 实用工具推荐:
+    - 实用工具推荐/Clash.md
     - 实用工具推荐/ChatGPT.md
     - 实用工具推荐/Vscode.md
     - 实用工具推荐/Notion.md
@@ -76,4 +77,7 @@ markdown_extensions:
   # 提示、警告栏
   - admonition
   - pymdownx.details
+  # 内容标签栏
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
