@@ -4,12 +4,18 @@ nav:
   - index.md
   - about.md
   - 实用工具推荐:
+    - 实用工具推荐/主页.md
+    - 实用工具推荐/Vscode.md
     - 实用工具推荐/Clash.md
     - 实用工具推荐/ChatGPT.md
-    - 实用工具推荐/Vscode.md
+    - 实用工具推荐/Zotero.md
     - 实用工具推荐/Notion.md
     - 实用工具推荐/Obsidian.md
+    - 实用工具推荐/Snipaste.md
+    - 实用工具推荐/Listrary.md
+    - 实用工具推荐/Github-Copilot.md
   - 课程学习指南:
+    - 课程学习指南/主页.md
     - 通识教育课程:
       - 思想政治理论:
         - 课程学习指南/通识教育课程/核心课程/思想政治理论/主页.md
@@ -81,3 +87,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true 
+  # 表格
+  - tables
+  # emoji
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
