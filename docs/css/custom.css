@@ -7,3 +7,9 @@ body {
   /* Screen version */
   /* font-family: "LXGW WenKai Screen", sans-serif; */
 }
+
+
+.md-typeset__scrollwrap{
+  display: flex;
+  justify-content: center;
+}
