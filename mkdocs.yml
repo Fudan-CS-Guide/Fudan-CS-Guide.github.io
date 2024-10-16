@@ -3,9 +3,13 @@ site_name: Fudan-CS-Guide
 nav:
   - index.md
   - about.md
+  - 新生入学指南.md
+  - 校园生活指南:
+    - 校园生活指南/校园生活指南.md
   - 实用工具推荐:
     - 实用工具推荐/实用工具推荐.md
     - 实用工具推荐/Vscode.md
+    - 实用工具推荐/Cursor.md
     - 实用工具推荐/Clash.md
     - 实用工具推荐/ChatGPT.md
     - 实用工具推荐/Zotero.md
@@ -50,6 +54,8 @@ nav:
         - 课程学习指南/多元发展路径课程/荣誉项目路径/主页.md
       - 跨学科发展路径:
         - 课程学习指南/多元发展路径课程/跨学科发展路径/主页.md
+  - 升学与就业:
+    - 升学与就业/升学与就业.md
 
 theme:
   name: "material"
