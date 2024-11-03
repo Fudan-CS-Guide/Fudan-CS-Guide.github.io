@@ -70,6 +70,7 @@ nav:
     - 升学与就业/就业.md
   - 其他参考指南.md
   - 如何进行贡献.md
+  - 课程贡献模板.md
 
 theme:
   name: "material"
@@ -113,3 +114,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  # 图片
+  - attr_list
+  - md_in_html

@@ -1,12 +1,18 @@
 !!! abstract
 
-    高等数学A（上）内容介绍、老师推荐、学习资料推荐
+    大类基础课程
 
-## 1. 课程简介
+# 高等数学A（上）
 
-// TODO
+## 1. 课程学习内容
 
-## 2. 老师推荐
+一元函数微积分、简单涉猎线性代数与空间解析几何
+
+### 1.1 先修要求
+
+无
+
+## 2. 任课教师
 
 === "刘进"
 
@@ -16,30 +22,46 @@
 
     不清楚 
 
-## 3. 学习资料推荐
+## 3. 课程教材
 
-### 书籍
+校内老师编写的教材
 
-校内老师编写的教科书
+<figure markdown> 
+    ![教材](/images/高数A2.jpg){ width="300" }
+    <figcaption>课程教材</figcaption>
+</figure>
 
-![](/images/高数A2.jpg)
+老师一般会按照教材上课，课后作业为教材原题
 
-有一套配置的习题集，但是题目难度较大
+## 4. 评分构成
 
-![](/images/高数A3.jpg)
+见教务网站课程大纲
+
+## 5. 其他可选项目
+
+### 5.1 书籍
+
+教材有一套配置的习题集，但是题目难度较大
+
+<figure markdown> 
+    ![教材配套习题](/images/高数A3.jpg){ width="300" }
+    <figcaption>教材配套习题</figcaption>
+</figure>
 
 笔者在上高数时选择刷吉米多维奇，难度适中，刷完足以应对期中期末考试：
 
-![](/images/高数A4.jpg)
+<figure markdown> 
+    ![吉米多维奇](/images/高数A4.jpg){ width="300" }
+    <figcaption>吉米多维奇</figcaption>
+</figure>
 
-### 教学视频
+### 5.2 教学视频
 
 很头疼的问题在于，复旦相当多的课程并不提供课程录像。如果课下希望自学的话，笔者本人选择先看下[宋浩的高数视频](https://www.bilibili.com/video/BV1Eb411u7Fw/?spm_id_from=333.337.search-card.all.click&vd_source=6afbbf08fb8c28068a9d924fe9a1154b)，浅显易懂，但是偏简单，看完视频入门后再自学一遍课本，会轻松一些。
 
 > 另附[CS自学指南推荐的微积分课程](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/MITmaths/)，可以凭自身能力自行选择
 
-### 历年试题
+### 5.3 历年试题
 
 - [校内链接](https://math.fudan.edu.cn/gdsx/34087/list.htm): 目前仅包含07-18年高数试题，需要校园网进行访问
 - [Github](https://github.com/Fudan-CS-Guide/Fudan-CS-Resource/tree/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98): 仓库内试题与校内网站一致，避免校内链接失效，不需要校园网
-
