@@ -60,4 +60,4 @@
 ### 5.3 历年试题
 
 - [校内链接](https://math.fudan.edu.cn/gdsx/34087/list.htm): 目前仅包含07-18年高数试题，需要校园网进行访问
-- [Github](https://github.com/Fudan-CS-Guide/Fudan-CS-Resource/tree/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98): 仓库内试题与校内网站一致，避免校内链接失效，不需要校园网
+- [Github](https://github.com/Fudan-CS-Guide/Fudan-CS-Resource/tree/main/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98): 仓库内资料除高数A试题外，增加部分21级资料，不需要校园网
