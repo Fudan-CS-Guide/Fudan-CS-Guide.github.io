@@ -1,7 +1,7 @@
 site_name: Fudan-CS-Guide
 
 nav: 
-  - index.md
+  - index.md 
   - about.md
   - 新生问题汇总:
     - 新生问题指南/新生入学指南.md
